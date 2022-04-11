@@ -70,9 +70,9 @@ ul{
     letter-spacing: 0.06em;
 }
 .bisness-title{
-    color: var(--item-color);
     font-weight: 900;
     font-size: 44px;
+    color: var(--item-color);
 }
 .button{
     color: var(--item-color);
